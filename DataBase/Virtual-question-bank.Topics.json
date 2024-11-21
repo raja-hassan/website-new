@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "66c12c546edaf52494b18a0d"
+  },
+  "name": "history of computing",
+  "subCode": "cs101"
+},
+{
+  "_id": {
+    "$oid": "66c12cb96edaf52494b18a10"
+  },
+  "name": "daa storage",
+  "subCode": [
+    "cs101"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c12cda6edaf52494b18a11"
+  },
+  "name": "boolean operator",
+  "subCode": [
+    "cs101"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c12d3f6edaf52494b18a12"
+  },
+  "name": "mass storage",
+  "subCode": [
+    "cs101"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c12d506edaf52494b18a13"
+  },
+  "name": "components of os",
+  "subCode": [
+    "cs101"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c12e1a6edaf52494b18a19"
+  },
+  "name": "essay writing",
+  "subCode": [
+    "eng101"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c12e566edaf52494b18a1a"
+  },
+  "name": "word formation",
+  "subCode": [
+    "eng101"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c12e776edaf52494b18a1b"
+  },
+  "name": "reading",
+  "subCode": [
+    "eng101"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c12e806edaf52494b18a1c"
+  },
+  "name": "writing",
+  "subCode": [
+    "eng101"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c12e9c6edaf52494b18a1d"
+  },
+  "name": "grammer",
+  "subCode": [
+    "eng101"
+  ]
+}]

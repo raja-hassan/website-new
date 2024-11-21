@@ -1,0 +1,57 @@
+/project-root
+│
+├── /controllers       # Handles business logic for each entity
+│   ├── subjectController.js
+│   ├── userController.js
+│   ├── topicController.js
+│   └── questionController.js
+│
+├── /models            # Mongoose models for each entity
+│   ├── subjectModel.js
+│   ├── userModel.js
+│   ├── topicModel.js
+│   └── questionModel.js
+│
+├── /routes            # API routes for each entity
+│   ├── subjectRoutes.js
+│   ├── userRoutes.js
+│   ├── topicRoutes.js
+│   └── questionRoutes.js
+│
+├── /validations       # Joi validation schemas for request validation
+│   ├── subjectValidation.js
+│   ├── userValidation.js
+│   ├── topicValidation.js
+│   └── questionValidation.js
+│
+├── /middleware        # Custom middleware (e.g., error handling, authentication)
+│   └── errorHandler.js
+│
+├── /config            # Configuration files (e.g., DB, environment variables)
+│   └── db.js
+│   └── env.js
+│
+├── /services          # Business logic/services (if separating from controllers)
+│   ├── subjectService.js
+│   ├── userService.js
+│   ├── topicService.js
+│   └── questionService.js
+│
+├── /utils             # Utility functions (e.g., logging, helpers)
+│   └── logger.js
+│
+├── /tests             # Unit and integration tests
+│   ├── subject.test.js
+│   ├── user.test.js
+│   ├── topic.test.js
+│   └── question.test.js
+│
+├── /node_modules      # Installed npm packages
+│
+├── app.js             # Main application entry point
+│
+├── package.json       # Project metadata and dependencies
+│
+├── .env               # Environment variables
+│
+└── .gitignore         # Ignore files (e.g., node_modules, .env)

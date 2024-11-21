@@ -1,0 +1,18 @@
+.Addbtn {
+  background: #69afc5;
+  border-color: transparent;
+  padding: 2px 7px;
+  border-radius: 50px;
+  color: #fff;
+}
+
+.removeicon {
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.removeicon:hover {
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+  transform: scale(1.08);
+}

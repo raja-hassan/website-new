@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "66bfb8b72db2ae3a35fb561c"
+  },
+  "name": "Introduction to Computing",
+  "code": "cs101"
+},
+{
+  "_id": {
+    "$oid": "66bfbdfe2db2ae3a35fb561d"
+  },
+  "name": "Introduction to e-Learning",
+  "code": "VU001"
+},
+{
+  "_id": {
+    "$oid": "66bfc4e12db2ae3a35fb561e"
+  },
+  "name": "English Comprehension",
+  "code": "ENG101"
+},
+{
+  "_id": {
+    "$oid": "66bfc5362db2ae3a35fb5620"
+  },
+  "name": "Physics",
+  "code": "PHY101"
+}]

@@ -1,0 +1,19 @@
+.profile-img{
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.profile-img-wrape{
+    position: relative;
+
+    .edit-btn{
+        border-radius: 50%;
+        position: absolute;
+        top: 50px;
+        right: 110px;
+        background-color: #69AFC5;
+        border-color: transparent;
+        color: #fff;
+    }
+}

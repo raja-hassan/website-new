@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "66bfb7732db2ae3a35fb5617"
+  },
+  "firstName": "Faheem",
+  "lastName": "Sharif",
+  "role": "admin",
+  "userName": "fsharif",
+  "email": "faheemawan876@gmail.com",
+  "password": "admin@123"
+},
+{
+  "_id": {
+    "$oid": "66bfb85c2db2ae3a35fb5619"
+  },
+  "firstName": "Farooq",
+  "lastName": "Shahid",
+  "role": "teacher",
+  "userName": "fshahid",
+  "email": "fshahid@gmail.com",
+  "password": "teacher@123"
+},
+{
+  "_id": {
+    "$oid": "66bfb87f2db2ae3a35fb561a"
+  },
+  "firstName": "Nazim",
+  "lastName": "Ghafoor",
+  "role": "student",
+  "userName": "nGhafoor",
+  "email": "nazimGhfoor@gmail.com",
+  "password": "student@123"
+}]
